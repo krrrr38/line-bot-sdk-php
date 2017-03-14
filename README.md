@@ -45,6 +45,10 @@ Entry point of this application.
 
 Core logic of this application that uses the LINE Messaging API.
 
+### [Event handlers](./src/LINEBot/EchoBot/EventHandler)
+
+Handlers for LINE Messaging API events.
+
 License
 --
 
